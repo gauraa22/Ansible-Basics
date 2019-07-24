@@ -1,0 +1,4 @@
+db_and_websever1 ansible_host=10.231.88.11  ansible_user=root  ansible_ssh_pass=Password123!
+db_and_websever2 ansible_host=10.231.88.12  ansible_user=root  ansible_ssh_pass=Password123!
+db_and_websever3 ansible_host=10.231.88.13  ansible_user=root  ansible_ssh_pass=Password123!
+db_and_websever4 ansible_host=10.231.88.14  ansible_user=root  ansible_ssh_pass=Password123!
